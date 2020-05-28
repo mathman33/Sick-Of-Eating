@@ -1,5 +1,7 @@
 # Sick-Of-Eating
 
+All code is written using Python 2.7.
+
 ### Figure 2
 1. `python make-figure-2.py`
 
